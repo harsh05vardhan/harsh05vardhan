@@ -11,7 +11,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca07
 - 🦾 Built **Quadruped Robot for Surveillance**
 - ✋ Designed **Robotic Hand using PVC & Arduino**
 - ☕ Strong in **Java & Backend Development**
-- 🇮🇳 Interested in ** Indian Army Technologies**
+- 🇮🇳 Interested in  Indian Army Technologies
 
 </p>
 
