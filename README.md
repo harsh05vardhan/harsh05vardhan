@@ -6,11 +6,11 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca07
 
 <p align="left">
 
-- 🎓 BSc (Hons) Data Science & AI — **IIT Guwahati**
-- 🤖 Working on Robotics, Drones 
-- 🦾 Built **Quadruped Robot for Surveillance**
-- ✋ Designed **Robotic Hand using PVC & Arduino**
-- ☕ Strong in **Java & Backend Development**
+-  BSc (Hons) Data Science & AI — **IIT Guwahati**
+-  Working on Robotics, Drones 
+-  Built **Quadruped Robot for Surveillance**
+-  Designed **Robotic Hand using PVC & Arduino**
+-  Strong in **Java & Backend Development**
 - 🇮🇳 Interested in  Indian Army Technologies
 
 </p>
